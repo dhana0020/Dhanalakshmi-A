@@ -5,7 +5,7 @@ I build things that **think**, **see**, and **solve**.
 Currently exploring how **data + intelligence** can create real-world impact.
 
 
-
+---
 ### 🧠 What I’m into right now
 - 🤖 Teaching machines to understand text & images  
 - 📊 Turning messy data into meaningful insights  
@@ -13,7 +13,7 @@ Currently exploring how **data + intelligence** can create real-world impact.
 - 🧩 Getting better at problem solving every day  
 
 
-
+---
 ### 🛠 I like working with
 - **Languages:** Python, C++, C, JavaScript  
 - **AI / ML:** Machine Learning, YOLO, OpenCV  
@@ -22,7 +22,7 @@ Currently exploring how **data + intelligence** can create real-world impact.
 - **Databases:** SQL, MongoDB  
 - **Tools:** Git, GitHub, Power BI  
 
-
+---
 ### 🚀 Things I’ve built
 - 🔐 A system that **flags cyberbullying in real-time**
 - 🌊 A vision model that **detects plastic underwater**
@@ -32,20 +32,21 @@ Currently exploring how **data + intelligence** can create real-world impact.
 (Repos explain *how* — this profile explains *why*.)
 
 
-
+---
 ### 🧩 Outside the code
 - 🏸 Badminton & Tennikoit  
 - 🎨 Pencil sketching  
 - 🌱 Gardening  
 - 📚 Reading when screens get tiring  
 
-
+---
 ## 📊 GitHub Stats
 
-![Dhana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhana0020&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=dhana0020&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhana0020&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dhana0020&layout=compact&theme=dark)
 
+---
 ### 📍 Find me around the web
 - 🌐 Portfolio: https://dhana0020.github.io/portfolio/
 - 💼 LinkedIn: https://www.linkedin.com/in/dhanalakshmi-a-/
