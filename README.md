@@ -4,7 +4,7 @@ _AI • Data • Code_
 I build things that **think**, **see**, and **solve**.  
 Currently exploring how **data + intelligence** can create real-world impact.
 
----
+
 
 ### 🧠 What I’m into right now
 - 🤖 Teaching machines to understand text & images  
@@ -12,7 +12,7 @@ Currently exploring how **data + intelligence** can create real-world impact.
 - 🌐 Building simple web apps for complex problems  
 - 🧩 Getting better at problem solving every day  
 
----
+
 
 ### 🛠 I like working with
 - **Languages:** Python, C++, C, JavaScript  
@@ -22,7 +22,6 @@ Currently exploring how **data + intelligence** can create real-world impact.
 - **Databases:** SQL, MongoDB  
 - **Tools:** Git, GitHub, Power BI  
 
----
 
 ### 🚀 Things I’ve built
 - 🔐 A system that **flags cyberbullying in real-time**
@@ -32,7 +31,7 @@ Currently exploring how **data + intelligence** can create real-world impact.
 
 (Repos explain *how* — this profile explains *why*.)
 
----
+
 
 ### 🧩 Outside the code
 - 🏸 Badminton & Tennikoit  
@@ -40,7 +39,7 @@ Currently exploring how **data + intelligence** can create real-world impact.
 - 🌱 Gardening  
 - 📚 Reading when screens get tiring  
 
----
+
 
 ### 📍 Find me around the web
 - 🌐 Portfolio: https://dhana0020.github.io/portfolio/
@@ -48,6 +47,6 @@ Currently exploring how **data + intelligence** can create real-world impact.
 - 💻 GitHub: https://github.com/dhana0020
 - 📧 Email: dhana172022@gmail.com
 
----
+
 
 > *I don’t just learn tools — I learn how to think with them.*
