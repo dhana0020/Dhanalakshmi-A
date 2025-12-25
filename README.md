@@ -40,6 +40,11 @@ Currently exploring how **data + intelligence** can create real-world impact.
 - 📚 Reading when screens get tiring  
 
 
+## 📊 GitHub Stats
+
+![Dhana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhana0020&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhana0020&layout=compact&theme=dark)
 
 ### 📍 Find me around the web
 - 🌐 Portfolio: https://dhana0020.github.io/portfolio/
